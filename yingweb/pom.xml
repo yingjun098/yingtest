@@ -9,5 +9,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>airline</module>
+  	<module>ribbon</module>
+  	<module>airline2</module>
   </modules>
 </project>
