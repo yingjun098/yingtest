@@ -4,7 +4,8 @@ Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: Administrator
 Implementation-Vendor-Id: ying.org
 Build-Jdk: 1.8.0_141
-Implementation-URL: http://maven.apache.org
+Implementation-URL: http://projects.spring.io/spring-boot/ying/yingser
+ ver/yingcommon/yingframe/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
 
