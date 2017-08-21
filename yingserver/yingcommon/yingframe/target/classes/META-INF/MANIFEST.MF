@@ -3,7 +3,7 @@ Implementation-Title: yingframe
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: Administrator
 Implementation-Vendor-Id: ying.org
-Build-Jdk: 1.8.0_141
+Build-Jdk: 1.8.0_131
 Implementation-URL: http://projects.spring.io/spring-boot/ying/yingser
  ver/yingcommon/yingframe/
 Created-By: Maven Integration for Eclipse
